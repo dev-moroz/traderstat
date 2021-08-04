@@ -1,0 +1,474 @@
+2021-07-24T16:37:32+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 712
+
+2021-07-24T16:37:34+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 712
+
+2021-07-24T16:37:58+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 712
+
+2021-07-24T16:39:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T16:39:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T16:39:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T16:42:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T16:43:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T16:44:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T16:45:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T16:56:25+00:00 CRITICAL Uncaught Error: Call to undefined function connect_to_out_bd_01() in /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/homepage.php:33
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#3 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/homepage.php на строке 33
+
+2021-07-24T16:57:01+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/classes/class-twenty-twenty-one-svg-icons.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 524
+
+2021-07-24T16:57:05+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/classes/class-twenty-twenty-one-svg-icons.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 524
+
+2021-07-24T16:57:16+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:19+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:21+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:29+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:31+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:32+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:35+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:37+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:40+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:53+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:57:56+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:58:02+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:58:02+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:58:03+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:58:04+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:58:04+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T16:58:08+00:00 CRITICAL require(): Failed opening required '/home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/inc/custom-header.php' (include_path='.:/opt/php71/share/pear') в /home/c/cf52359/wordpress/public_html/wp-content/themes/tradestat_01/functions.php на строке 157
+
+2021-07-24T17:00:11+00:00 CRITICAL syntax error, unexpected 'navigation' (T_STRING) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 446
+
+2021-07-24T17:00:14+00:00 CRITICAL syntax error, unexpected 'navigation' (T_STRING) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 446
+
+2021-07-24T17:00:23+00:00 CRITICAL syntax error, unexpected 'navigation' (T_STRING) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 446
+
+2021-07-24T17:01:09+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T17:01:11+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T17:01:41+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T17:01:57+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T17:02:00+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T17:02:01+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T17:02:10+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T17:02:27+00:00 CRITICAL syntax error, unexpected ',' в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 447
+
+2021-07-24T18:06:10+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:11+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:13+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:14+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:15+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:16+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:16+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:17+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:17+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:17+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:30+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:30+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:30+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:31+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:32+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:33+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:06:34+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 714
+
+2021-07-24T18:10:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:10:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:11:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:11:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:14:28+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:28+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:29+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:31+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:32+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:33+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:33+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:33+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:33+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:33+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:34+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:14:56+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:15:00+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 718
+
+2021-07-24T18:16:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:19:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:19:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:19:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:19:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:22:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:23:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:24:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:24:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:25:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:31:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:32:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:32:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:34:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:34:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:34:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:35:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:36:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T18:54:17+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:18+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:19+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:20+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:21+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:21+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:21+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:22+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:38+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:39+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:40+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:40+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:41+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:41+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:41+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T18:54:42+00:00 CRITICAL Cannot redeclare script_faq() (previously declared in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php:706) в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/functions.php на строке 720
+
+2021-07-24T19:02:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T19:03:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T19:04:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php on line 349 and at least 2 expected in /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php:114
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php(349): add_filter('footer_enqueue_...')
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#3 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#4 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-includes/plugin.php на строке 114
+
+2021-07-24T19:37:25+00:00 CRITICAL Uncaught Error: Call to undefined function footer_enqueue_scripts_logo() in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/header.php:97
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-includes/template.php(770): require_once()
+#1 /home/c/cf52359/wordpress/public_html/wp-includes/template.php(716): load_template('/home/c/cf52359...', true, Array)
+#2 /home/c/cf52359/wordpress/public_html/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-about_us.php(7): get_header()
+#4 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include('/home/c/cf52359...')
+#5 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#6 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#7 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/header.php на строке 97
+
+2021-07-24T19:42:13+00:00 CRITICAL Uncaught Error: Call to undefined function new_search_trades() in /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php:312
+Stack trace:
+#0 /home/c/cf52359/wordpress/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cf52359/wordpress/public_html/wp-blog-header.php(19): require_once('/home/c/cf52359...')
+#2 /home/c/cf52359/wordpress/public_html/index.php(17): require('/home/c/cf52359...')
+#3 {main}
+  thrown в /home/c/cf52359/wordpress/public_html/wp-content/themes/twentytwentyone/template-search_traders.php на строке 312
+
